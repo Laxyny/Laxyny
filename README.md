@@ -5,9 +5,9 @@ I am Laxyny, a young Frenchman passionate about development, I try to diversify 
 
 I am not yet a developer but I will make sure to become one!
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Laxyny&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Laxyny&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laxyny&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laxyny&hide=TeX&layout=compact&theme=tokyonight)
 <!--
 **Laxyny/Laxyny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
