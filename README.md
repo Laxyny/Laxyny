@@ -1,3 +1,4 @@
+![Laxyny Banner](Logo.png "Laxyny Banner")
 ### Hi there 👋
 
 <!--
