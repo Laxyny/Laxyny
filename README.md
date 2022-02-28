@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Welcome to my github page**
+**Welcome to my github page.**
 I am Laxyny, a young Frenchman passionate about development, I try to diversify using several platforms (android, ios, Windows, Linux...) but also different programming languages (Dart, JavaScript, HTML...).
 
 I am not yet a developer but I will make sure to become one!
