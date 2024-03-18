@@ -13,7 +13,7 @@ I am not yet a developer but I will make sure to become one!
 
 My Skills
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,js,java,c,cpp,py,dart,flutter,cs,discordjs,ps,arduino,godot)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,dart,flutter,cs)
 
 <a href= "https://europizzalgm.fr">
   <img align="center" src ="https://skillicons.dev/icons?i=wordpress" />
