@@ -6,7 +6,8 @@ I am Laxyny, a young French passionate about development, I try to diversify usi
 I am not yet a developer but I will make sure to become one!
 
 
-My Skills
+**My Skills:**
+
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,py,dart,flutter)
 
