@@ -5,11 +5,14 @@ I am Laxyny, a young French passionate about development, I try to diversify usi
 
 I am not yet a developer but I will make sure to become one!
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=laxyny&theme=calm_pink&show_icons=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxyny&layout=compact" />
-</a>
-
+<p align="center">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=laxyny&theme=calm_pink&show_icons=true" />
+  </a>
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxyny&layout=compact" />
+  </a>
+</p>
 
 My Skills
 
