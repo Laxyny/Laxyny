@@ -11,7 +11,7 @@ My Skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,py,dart,flutter)
 
 
-<p align="center">
+<p>
   <a href= "https://europizzalgm.fr">
     <img align="center" src ="https://skillicons.dev/icons?i=wordpress" />
   </a>
