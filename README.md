@@ -11,16 +11,5 @@ My Skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,py,dart,flutter)
 
 
-<p align='center'>
-  <a href= "https://europizzalgm.fr">
-    <img align="center" src ="https://skillicons.dev/icons?i=wordpress" />
-  </a>
-  <a href= "https://www.linkedin.com/in/kg04/">
-    <img align="center" src ="https://skillicons.dev/icons?i=linkedin" />
-  </a> 
-</p>
-
-
-
 ![Github](https://github-readme-stats.vercel.app/api?username=laxyny&theme=calm_pink&show_icons=true)
 ![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=laxyny&layout=compact)
