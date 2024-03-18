@@ -5,18 +5,11 @@ I am Laxyny, a young French passionate about development, I try to diversify usi
 
 I am not yet a developer but I will make sure to become one!
 
-<p align="center">
-  <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=laxyny&theme=calm_pink&show_icons=true" />
-  </a>
-  <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxyny&layout=compact" />
-  </a>
-</p>
 
 My Skills
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,py,dart,flutter)
+
 
 <p align="center">
   <a href= "https://europizzalgm.fr">
@@ -25,4 +18,12 @@ My Skills
   <a href= "https://www.linkedin.com/in/kg04/">
     <img align="center" src ="https://skillicons.dev/icons?i=linkedin" />
   </a> 
+</p>
+
+
+<p align="center">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=laxyny&theme=calm_pink&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxyny&layout=compact" />
+  </a>
 </p>
