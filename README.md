@@ -13,11 +13,13 @@ I am not yet a developer but I will make sure to become one!
 
 My Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,dart,flutter,cs)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,py,dart,flutter)
 
-<a href= "https://europizzalgm.fr">
-  <img align="center" src ="https://skillicons.dev/icons?i=wordpress" />
-</a>
-<a href= "https://www.linkedin.com/in/kg04/">
-  <img align="center" src ="https://skillicons.dev/icons?i=linkedin" />
-</a> 
+<p align="center">
+  <a href= "https://europizzalgm.fr">
+    <img align="center" src ="https://skillicons.dev/icons?i=wordpress" />
+  </a>
+  <a href= "https://www.linkedin.com/in/kg04/">
+    <img align="center" src ="https://skillicons.dev/icons?i=linkedin" />
+  </a> 
+</p>
