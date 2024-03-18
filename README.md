@@ -5,9 +5,9 @@ I am Laxyny, a young French passionate about development, I try to diversify usi
 
 I am not yet a developer but I will make sure to become one!
 
-<a href="[https://github.com/laxyny](https://github.com/anuraghazra/github-readme-stats)">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=laxyny&theme=calm_pink&show_icons=true" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=laxyny&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxyny&layout=compact" />
 </a>
