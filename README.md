@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
-</p>
-
 ### Hi there 👋
 
 **Welcome to my github page.**
@@ -18,3 +14,8 @@ I am not yet a developer but I will make sure to become one!
 
 ![Github](https://github-readme-stats.vercel.app/api?username=laxyny&theme=calm_pink&show_icons=true)
 ![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=laxyny&layout=compact)
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+</p>
