@@ -6,7 +6,7 @@ I am Laxyny, I try to diversify using several platforms (android, ios, Windows, 
 **My Skills:**
 
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,py,dart,flutter)
+![My Skills](https://skillicons.dev/icons?i=html,css,angular,nodejs,js,py,dart,flutter)
 
 
 ![Github](https://github-readme-stats.vercel.app/api?username=laxyny&theme=calm_pink&show_icons=true)
