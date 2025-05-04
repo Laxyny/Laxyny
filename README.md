@@ -14,7 +14,7 @@ I am Laxyny, I try to diversify using several platforms (android, ios, Windows, 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=laxyny&show_icons=true&theme=radical&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=ffffff" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxyny&layout=compact&theme=radical&hide_border=true&title_color=00FF41&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxyny&layout=donut&theme=radical&hide_border=true&title_color=00FF41&text_color=ffffff&card_width=480" />
 </p>
 
 <p align="center">
