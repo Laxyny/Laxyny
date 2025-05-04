@@ -12,9 +12,10 @@ I am Laxyny, I try to diversify using several platforms (android, ios, Windows, 
 ![My Skills](https://skillicons.dev/icons?i=html,css,angular,nodejs,js,py,dart,flutter)
 
 
-![Github](https://github-readme-stats.vercel.app/api?username=laxyny&theme=calm_pink&show_icons=true)
-![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=laxyny&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laxyny&show_icons=true&theme=radical&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxyny&layout=compact&theme=radical&hide_border=true&title_color=00FF41&text_color=ffffff" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
