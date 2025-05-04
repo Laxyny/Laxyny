@@ -18,5 +18,6 @@ I am Laxyny, I try to diversify using several platforms (android, ios, Windows, 
 
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=laxyny&label=Profile%20views&color=0e75b6&style=flat" alt="laxyny" />
   <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 </p>
