@@ -17,7 +17,7 @@ I am Laxyny, I try to diversify using several platforms (android, ios, Windows, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxyny&layout=donut&theme=radical&hide_border=true&title_color=00FF41&text_color=ffffff&card_width=480" />
 </p>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=laxyny&theme=algolia&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Views](https://komarev.com/ghpvc/?username=Laxyny&style=for-the-badge)
 
 
 <p align="center">
