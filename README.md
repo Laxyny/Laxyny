@@ -9,15 +9,15 @@ I am Laxyny, I try to diversify using several platforms (android, ios, Windows, 
 
 ### My Skills :
 
-![My Skills](https://skillicons.dev/icons?i=html,css,angular,nodejs,js,py,dart,flutter)
-
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=laxyny&show_icons=true&theme=radical&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=ffffff" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxyny&layout=donut&theme=radical&hide_border=true&title_color=00FF41&text_color=ffffff&card_width=480" />
-</p>
+![My Skills](https://skillicons.dev/icons?i=html,css,angular,nodejs,java,js,ts,py,php,dart,flutter,react,symfony,rust,c,cpp,cs,crystal,docker)
 
 ![Views](https://komarev.com/ghpvc/?username=Laxyny&style=for-the-badge)
+
+
+<!--<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=laxyny&show_icons=true&theme=radical&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxyny&layout=donut&theme=radical&hide_border=true&title_color=00FF41&text_color=ffffff&card_width=480" />
+</p>-->
 
 
 <p align="center">
