@@ -9,7 +9,7 @@ I am Laxyny, I try to diversify using several platforms (android, ios, Windows, 
 
 ### My Skills :
 
-![My Skills](https://skillicons.dev/icons?i=html,css,angular,nodejs,java,js,ts,py,php,dart,flutter,react,symfony,rust,c,cpp,cs,crystal,docker)
+![My Skills](https://skillicons.dev/icons?i=html,css,angular,nodejs,java,js,ts,py,php,dart,flutter,react,symfony,rust,c,cpp,cs,go,crystal,docker)
 
 ![Views](https://komarev.com/ghpvc/?username=Laxyny&style=for-the-badge)
 
