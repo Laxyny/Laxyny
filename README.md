@@ -11,7 +11,7 @@ I am Laxyny, I try to diversify using several platforms (android, ios, Windows, 
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,angular,nodejs,java,js,ts,py,php,dart,flutter,react,symfony,rust,c,cpp,cs,go,crystal,docker,mongo,mysql)
 
-![Views](https://komarev.com/ghpvc/?username=Laxyny&style=for-the-badge)
+<a href="https://u8views.com/github/Laxyny"><img src="https://u8views.com/api/v1/github/profiles/50528750/views/day-week-month-total-count.svg"></a>
 
 
 <!--<p align="center">
